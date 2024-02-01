@@ -22,7 +22,7 @@ I decided to create this app because I believed it would help people coming to A
 ・　SwiftData
 
 ## What I want to add to the app in the future 
-One thing I would like to implement in the future is the push notification function. When it comes to learning languages, it is essential to study the languages every day even a little bit, so I believe that it is reasonable to send a notification every morning to encourage users to access the app and spare some time to learn something new. Another thing is the addition of audio to the example sentences. In addition to vocabulary, accents make it challenging for people from other countries, even in Australia, to understand what locals say. Therefore, I am planning to add audio so that users can practice listening or just pronouncing words.
+One thing I would like to implement in the future is the push notification function. When it comes to learning languages, it is essential to study the languages every day even a little bit, so I believe that it is reasonable to send a notification every morning to encourage users to access the app and spare some time to learn something new. Another thing is the addition of audio to the example sentences. In addition to vocabulary, accents make it challenging for people from other countries to understand what locals say. Therefore, I am planning to add audio so that users can practice listening or just pronouncing words.
 
 
 
