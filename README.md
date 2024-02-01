@@ -6,6 +6,7 @@ https://apps.apple.com/au/app/aussie-english/id6476542395
   
 # Screen shots of the app and some main features
 ![image1 001](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/56c53182-099a-4964-9460-4bbbd3107298)
+![Untitled 001](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/0002c81b-2a5c-4409-94a7-071f50460bce)
 
 
 # Skills used in the app
