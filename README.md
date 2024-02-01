@@ -1,4 +1,4 @@
-![https___img shields io_badge_-Xcode-1575F9](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/b9bfb48f-14ae-4a3f-9769-f89a2d068128)## Url for the App 
+## Url for the App 
 https://apps.apple.com/au/app/aussie-english/id6476542395
 
 ## What made me want to create this app
@@ -17,7 +17,7 @@ I decided to create this app because I believed it would help people coming to A
 5. The words are searchable from the search bar at the top on the title page.
 
 ## Skills used in the app
-
+![https___img shields io_badge_-Xcode-1575F9](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/b9bfb48f-14ae-4a3f-9769-f89a2d068128)
 ・　SwiftUI 
 ・　SwiftData
 
