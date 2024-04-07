@@ -9,7 +9,7 @@ I decided to create this app because I believed it would help people coming to A
 ![Untitled 001](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/94a205d2-9480-4349-8661-eae5414f60b7)
 ![Untitled 001](https://github.com/1923mitsuyu/Aussie-English/assets/132897038/0002c81b-2a5c-4409-94a7-071f50460bce)
 
-~ Main Feature of the App ~ 
+Main Feature of the App 
 1. The players can choose how many words they want to learn, ranging from 10 to 40.
 2. They can focus on only the words they answered incorrectly until they answer them correctly.
 3. The words the players answered correctly will be listed, and a couple of example sentences will be visible when the words are tapped.
